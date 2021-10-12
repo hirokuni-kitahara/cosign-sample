@@ -1,6 +1,6 @@
 ### Usage
 
-This is just an example of cosign signing & verification in golang code
+This is just an example of cosign blob signing & verification in golang code
 
 ```
 1. generate cosign key pair
